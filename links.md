@@ -18,3 +18,6 @@ http://www.scconfigmgr.com/
 
 # PowerShell Script zum Download aktueller Microsoft Updates für Windows Server 2016, Windows 10
 https://github.com/aaronparker/MDT/blob/master/Updates/Get-LatestUpdate.ps1
+
+# Mimikatz aus PowerShell
+https://github.com/EmpireProject/Empire/blob/master/data/module_source/credentials/Invoke-Mimikatz.ps1
